@@ -12,6 +12,16 @@
 
 ---
 
+1. create simple app for crating photo albom from multipule sources
+2. select photos by date interval or by location or by any selected filter
+3. select albom format page layout
+4. select photo and text for albom cover 
+5. insert photos according to filter, keep date and time order
+6. disolay pront preview 
+7. apply edit options 
+8. select print page size
+9. create digital albom/print option 
+ll
 ## AI Task: Complete README Transformation
 
 Hello Cursor AI! Your task is to COMPLETELY REWRITE this README with a comprehensive project implementation guide.
