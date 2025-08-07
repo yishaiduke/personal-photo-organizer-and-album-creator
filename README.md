@@ -21,43 +21,7 @@
 7. apply edit options 
 8. select print page size
 9. create digital albom/print option 
-ll
-## AI Task: Complete README Transformation
 
-Hello Cursor AI! Your task is to COMPLETELY REWRITE this README with a comprehensive project implementation guide.
-
-### Critical Requirements:
-
-1. **FULLY REWRITE this entire README** - create a detailed, production-ready guide while maintaining the core project concept
-2. **Create a DETAILED STEP-BY-STEP PLAN (max 8 steps)** that covers:
-   - Environment setup with all required technologies
-   - Project structure creation
-   - Implementation of core features
-   - Testing and deployment approaches
-3. **Tailor content to the user's profile:**
-   - User's Experience Level: `Beginner`
-   - User's Available Time: `A Few Days`
-4. **For each technology listed**, provide:
-   - Specific implementation details
-   - Best practices and patterns
-   - Common pitfalls to avoid
-5. **Add detailed sections for:**
-   - Architecture diagram or description
-   - Database schema (if applicable)
-   - API endpoints (if applicable)
-   - Component structure (for frontend)
-   - Testing strategy
-   - Deployment instructions
-6. **Provide code examples** for critical project parts
-7. **REMOVE THESE INSTRUCTIONS COMPLETELY** after your rewrite
-
-Your goal is to transform this outline into a comprehensive roadmap that makes this project immediately actionable based on the user's specific experience level and time constraints.
-
-### ⚠️ CRITICAL FIRST STEP ⚠️
-
-**YOUR FIRST AND ONLY TASK UPON RECEIVING THIS README IS TO REWRITE IT COMPLETELY. DO NOT START IMPLEMENTING THE PROJECT OR WRITING ANY CODE YET.**
-
-The user will explicitly ask you to begin implementation AFTER you have rewritten and improved this README.
 
 <!---
 ============================================================================
